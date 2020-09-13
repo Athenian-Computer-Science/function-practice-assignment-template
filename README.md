@@ -1,11 +1,9 @@
-# Master CT Assignment Template 
-
-Use this master template to create CT Assignment Templates.
+# Functions practice
+This repo should be used in conjunction with CS class and the Functions handout in OneNote.
 
 ## Problem Description
-Problem description goes here. 
-
-* Steps to take go here. 
+There are a few different files to modify/use in this repo. Please read thi instructions carefully. 
+1) 
 
 ## Example
 ```
