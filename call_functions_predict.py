@@ -18,7 +18,7 @@ say_hi()
 offer_food()
 
 '''
-Task 1.1: Write your predictions here between the lines of quotes. (This is a way to do bigger comments!)
+Write your predictions here between the lines of quotes. (This is a way to do bigger comments!)
 1. 
 2. 
 3. 
