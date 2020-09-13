@@ -1,9 +1,10 @@
 # Functions practice
-This repo should be used in conjunction with CS class and the [Functions handout](https://github.com/maleich/CS-lesson-plans/blob/master/Functions.md) in OneNote.
+This repo should be used in conjunction with CS class and the [Functions handout](https://github.com/maleich/CS-lesson-plans/blob/master/Functions.md) here and in OneNote.
 
 ## Problem Description
-There are a few different files to modify/use in this repo. Please read thi instructions carefully. 
-1) 
+There are a few different files to modify/use in this repo. Please read the instructions carefully. 
+1) Task 1: [calling_functions.py](calling_functions.py)
+2) 
 
 ## Example
 ```
