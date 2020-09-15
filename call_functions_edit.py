@@ -15,6 +15,7 @@ def say_bye():
    print("Cheerio then.")
 
 
+bye()
 offer_drink()
 say_hi()
 offer_food()
