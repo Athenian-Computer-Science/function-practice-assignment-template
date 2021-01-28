@@ -1,5 +1,5 @@
 # Functions practice
-This repo should be used in conjunction with CS class and the [Functions handout](https://github.com/maleich/CS-lesson-plans/blob/master/Functions.md) here and in OneNote.
+This repo should be used in conjunction with CS class and the [Functions handout](https://github.com/maleich/CS-lesson-plans/blob/master/Functions.md) here and on Canvas.
 
 ## Problem Description
 There are a few different files to modify/use in this repo. Please read the instructions carefully. 
